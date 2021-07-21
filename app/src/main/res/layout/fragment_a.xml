@@ -11,7 +11,7 @@
         android:id="@+id/intro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="You Are in Fragment A !!"
+        android:text="@string/you_are_in_fragment_a"
         android:gravity="center"
         android:textColor="#570404"
         android:textSize="20sp"

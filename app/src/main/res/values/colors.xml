@@ -5,5 +5,6 @@
     <color name="dark_green">#00544a</color>
     <color name="light_green">#00796b</color>
     <color name="dark_blue">#1c54b2</color>
+    <color name="burned_red">#570404</color>
     <color name="light_blue">#2979ff</color>
 </resources>
